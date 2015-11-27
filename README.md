@@ -1,5 +1,5 @@
 # MazeGame
-Maze Game for COMP2911 Group Assignment
+Maze Game for COMP2911 Group Assignment (Java7)
 
 Team:
  - Raphael Rueda
